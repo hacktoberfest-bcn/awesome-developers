@@ -13,3 +13,5 @@ Add your name or github username here:
 * sauloperez
 * Horiol
 * rubenlorenzo
+* Al1190
+* pareyesv
