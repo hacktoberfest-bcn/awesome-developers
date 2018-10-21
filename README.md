@@ -12,6 +12,7 @@ Add your name or github username here:
 * Gpx
 * sauloperez
 * Horiol
+* Arnau
 * MurreyCode
 * Tammy
 * David
