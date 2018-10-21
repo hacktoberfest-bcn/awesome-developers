@@ -13,3 +13,8 @@ Add your name or github username here:
 * sauloperez
 * Horiol
 * Inkala
+* dgarcia
+* feliuserra
+* rubenlorenzo
+* Al1190
+* pareyesv
